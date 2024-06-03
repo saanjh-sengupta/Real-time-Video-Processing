@@ -1,0 +1,2 @@
+/usr/bin/ar qc libVideoProcessing.a  CMakeFiles/VideoProcessing.dir/VideoProcessing/VideoProcessing.cpp.o
+/usr/bin/ranlib libVideoProcessing.a

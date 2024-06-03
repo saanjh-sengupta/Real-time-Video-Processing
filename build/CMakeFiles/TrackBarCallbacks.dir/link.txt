@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTrackBarCallbacks.a  CMakeFiles/TrackBarCallbacks.dir/TrackBarCallbacks/TrackBarCallbacks.cpp.o
+/usr/bin/ranlib libTrackBarCallbacks.a

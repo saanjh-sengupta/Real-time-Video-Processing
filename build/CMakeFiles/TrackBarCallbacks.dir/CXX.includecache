@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../TrackBarCallbacks/include/TrackBarCallbacks.h
+opencv2/opencv.hpp
+-
+
+/home/kpit/Desktop/KPIT Genesis 2024/Mini Projects/Real-time Image Editing/TrackBarCallbacks/TrackBarCallbacks.cpp
+TrackBarCallbacks.h
+/home/kpit/Desktop/KPIT Genesis 2024/Mini Projects/Real-time Image Editing/TrackBarCallbacks/TrackBarCallbacks.h
+

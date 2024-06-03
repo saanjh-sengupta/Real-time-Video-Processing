@@ -1,0 +1,3 @@
+/home/kpit/Desktop/KPIT Genesis 2024/Mini Projects/Real-time Image Editing/build/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/KPIT Genesis 2024/Mini Projects/Real-time Image Editing/build/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/KPIT Genesis 2024/Mini Projects/Real-time Image Editing/build/CMakeFiles/Main.dir
